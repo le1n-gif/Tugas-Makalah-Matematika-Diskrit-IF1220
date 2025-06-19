@@ -1,0 +1,18 @@
+Posisi,Nama Pemain,Menit Bermain,Menit Bermain / 90 menit,Total Goal,Total Assist,Goal / match,Assist / 90 menit
+DF,Eric Abidal,2256,"25,07",0,1,0,"0,04"
+DF,Javier Mascherano,3637,"40,41",0,0,0,0
+DF,Carles Puyol,2655,"29,5",3,0,"0,1",0
+DF,Dani Alves,3528,"39,2",2,12,"0,05","0,31"
+DM,Sergio Busquets,3309,"36,77",2,1,"0,05","0,03"
+CM,Xavi,2871,"31,9",11,7,"0,34","0,22"
+CM,Andres Iniesta,2425,"26,94",5,10,"0,19","0,37"
+FW,Pedro,2119,"23,54",9,3,"0,38","0,13"
+FW,Lionel Messi,4260,"47,33",64,21,"1,35","0,44"
+FW,Cesc Fabregas,2593,"28,81",10,10,"0,35","0,35"
+,,,,,,,
+,,,,,,,
+Dari / Ke,DF,DM,CM,FW,,,
+DF,0.05,0.35,0.25,0.1,,,
+DM,0.1,0,0.5,0.35,,,
+CM,0.05,0.25,0.4,0.7,,,
+FW,0.05,0.15,0.45,0.6,,,
